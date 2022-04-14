@@ -1,6 +1,6 @@
 <div align="center">
-    <image alt="" src="./doc-assets/logo.png" />
-    <h1>svelte-chartjs</h1>
+  <image alt="" src="./doc-assets/logo.png" />
+  <h1>svelte-chartjs</h1>
 </div>
 
 Svelte wrapper for [chart.js](https://www.chartjs.org/) Open for PRs and contributions!
