@@ -1,4 +1,4 @@
 <script>
-  import Base from './Base.svelte';
+  import Base from './Base.svelte'
 </script>
 <Base {...$$props} type="scatter" />
